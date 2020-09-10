@@ -2,3 +2,5 @@ this file is created in github website to simulate another user's commit.
 
 
 test pull and fetch+merge
+
+this line is for new local branch test.
