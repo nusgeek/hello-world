@@ -1,7 +1,3 @@
-### test tefdsl
-fdsljl
+This project is totally for learning git usage. 
 
-this is a new hello world readme
-
-
-this is a third line added.
+NO other meaningful purpose.
